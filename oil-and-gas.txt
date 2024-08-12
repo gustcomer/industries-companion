@@ -1,0 +1,6 @@
+================================================================================
+Glossary
+
+Downstream: Refining and Marketing.
+Midstream: Transportation and Storage.
+Upstream: Exploration and Production.
