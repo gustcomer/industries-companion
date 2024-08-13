@@ -1,0 +1,45 @@
+
+================================================================================
+Glossary
+
+Fieldbus: type of industrial network system used for real-time distributed control in manufacturing and production environments.
+  - in a Fieldbus system, multiple devices are connected to a single communication bus, which reduces the amount of wiring needed and improves communication efficiency.
+  - some Fieldbus protocols: PROFIBUS, FOUNDATION Fieldbus, CANopen, Modbus, DeviceNet, AS-Interface (AS-i), EtherCAT, HART, Interbus, PROFINET, SERCOS, ControlNet, FF-HSE.
+
+================================================================================
+Timeline
+
+1968: Modbus
+1983: HART
+1985: Interbus
+1987: PROFIBUS (Process Field Bus)
+1990: DeviceNet
+1993: AS-Interface (AS-i)
+1993: SERCOS
+1994: FOUNDATION Fieldbus
+1997: ControlNet
+1999: EtherCAT
+2000: CANopen
+2001: PROFINET
+2002: FF-HSE
+2003: OPC UA
+  PROFINET CBA (Component-Based Automation)
+2004: EtherNet/IP
+2006: PROFINET IRT (Isochronous Real-Time)
+2008: WirelessHART
+2010
+  ISA100.11a
+  Time-Sensitive Networking (TSN)
+  Integration of PROFINET with Safety Protocols
+2011: APL (Advanced Physical Layer)
+2012: PROFINET over TSN (Time-Sensitive Networking)
+2014: MQTT (Message Queuing Telemetry Transport)
+  PROFINET V2.3
+2015: OPC UA over TSN
+2016: Industrial Internet of Things (IIoT) and Industry 4.0 Adoption
+  PROFINET and IIoT Integration
+2018: 5G for Industrial Networks
+2020: Edge Computing in Industrial Networks
+  Enhanced Cybersecurity Features in PROFINET
+2021: OPC UA FX (Field eXchange)
+2022: PROFINET over 5G

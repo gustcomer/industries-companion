@@ -1,0 +1,19 @@
+================================================================================
+Glossary
+
+Multistation Access Unit (MAU): device to attach multiple network stations in a rong topology.
+Token Ring: LAN protocol first developed by IBM in 1970s and then standardized as IEEE 802.5 in 1985
+
+================================================================================
+Protocols
+
+IEEE 802.11: defines Wi-Fi.
+
+================================================================================
+Timeline
+
+1984
+  IBM introduced the Token Ring technology.
+
+1984
+  IEEE 802.5 that standardized the Token Ring technology.
