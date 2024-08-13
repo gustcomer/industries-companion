@@ -1,0 +1,15 @@
+================================================================================
+Glossary
+
+
+================================================================================
+Timeline
+
+2001: PROFINET
+2003: PROFINET CBA (Component-Based Automation)
+2010: Integration of PROFINET with Safety Protocols
+2012: PROFINET over TSN (Time-Sensitive Networking)
+2014: PROFINET V2.3
+2016: PROFINET and IIoT Integration
+2020: Enhanced Cybersecurity Features in PROFINET
+2022: PROFINET over 5G
