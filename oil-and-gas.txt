@@ -6,6 +6,9 @@ Downstream: Refining and Marketing.
 Floating Production, Storage and Offloading (FPSO): floating vessel designed to receive hydrocarbons produced from nearby platforms or subsea templates.
   ptg: Unidade Flutuante de Produção, Armazenamento e Transferência.
 Midstream: Transportation and Storage.
+Spool: sections of pipe with flanges on either end connecting different parts and that resemble the shape of a traditional spool used for winding thread.
+  ptg: trechos de tubulação.
 Upstream: Exploration and Production.
+XMAS Tree: assembly of valves, spools, and fittings used at the wellhead to control the flow of oil or gas from a well.
 Well: drilled hole in the Earth's surface that is designed to extract crude oil and sometimes natural gas from underground reservoirs.
   ptg: poço

@@ -2,9 +2,15 @@
 ================================================================================
 Glossary
 
+Distributed Control System (DCS): control and monitor processes across various parts of a plant or facility, distributing the control functions among multiple controllers that are geographically dispersed.
+  - it is composed of Controllers, I/O Modules, Communication Network, HMI, Engineering Workstations.
 Fieldbus: type of industrial network system used for real-time distributed control in manufacturing and production environments.
   - in a Fieldbus system, multiple devices are connected to a single communication bus, which reduces the amount of wiring needed and improves communication efficiency.
   - some Fieldbus protocols: PROFIBUS, FOUNDATION Fieldbus, CANopen, Modbus, DeviceNet, AS-Interface (AS-i), EtherCAT, HART, Interbus, PROFINET, SERCOS, ControlNet, FF-HSE.
+Human-Machine Interface (HMI): dashboard that connects an operator to the machinery, equipment, or control system in an industrial environment.
+
+================================================================================
+Equipment
 
 ================================================================================
 Timeline
