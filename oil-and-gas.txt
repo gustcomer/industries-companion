@@ -1,6 +1,7 @@
 ================================================================================
 Glossary
 
+Casing: large-diameter pipe that is inserted into a drilled wellbore and cemented in place to stabilize the well, prevent the walls of the borehole from caving in, and protect the well from external contaminants, such as water or gas.
 Downstream: Refining and Marketing.
 Floating Production, Storage and Offloading (FPSO): floating vessel designed to receive hydrocarbons produced from nearby platforms or subsea templates.
   ptg: Unidade Flutuante de Produção, Armazenamento e Transferência.
