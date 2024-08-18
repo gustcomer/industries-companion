@@ -1,12 +1,14 @@
 ================================================================================
 Glossary
 
+Cased-Hole Completion: after drilling, the wellbore is lined with steel casing that is cemented in place.
 Casing: large-diameter pipe that is inserted into a drilled wellbore and cemented in place to stabilize the well, prevent the walls of the borehole from caving in, and protect the well from external contaminants, such as water or gas.
 Downstream: Refining and Marketing.
 Floating Production, Storage and Offloading (FPSO): floating vessel designed to receive hydrocarbons produced from nearby platforms or subsea templates.
   - processes: Well Fluid Reception, Separation, Gas Processing, Oil Processing (Desalinization), Remove Residual Water, Water Treatment, Crude Oil Storage, Gas Storage, Oil Offloading, Gas export via pipeline or LNG carrier, Metering, Power Generation via Gas Turbines and Diesel Generators, Wtaer Reinjection, Chemical Injection into flowlines, Flare unwanted Gases, Emergency Systems, Maintenance.
   ptg: Unidade Flutuante de Produção, Armazenamento e Transferência.
 Midstream: Transportation and Storage.
+Open-Hole Completion: after drilling the well to the desired depth, the wellbore is left open, without placing casing or cement.
 Spool: sections of pipe with flanges on either end connecting different parts and that resemble the shape of a traditional spool used for winding thread.
   ptg: trechos de tubulação.
 Upstream: Exploration and Production.
@@ -14,5 +16,7 @@ XMAS Tree: assembly of valves, spools, and fittings used at the wellhead to cont
   - processes: Flow Control of Well Fluids,shut-in capability, Blowout Prevention, isolation of Well components, pressure regulation and monitoring, access for Workovers, access point to chemical injection, interface with Subsea Infrastructure like subsea flowlines or risers, integration with control systems.
 Well: drilled hole in the Earth's surface that is designed to extract crude oil and sometimes natural gas from underground reservoirs.
   ptg: poço
+Wellbore: the hole or shaft drilled into the earth during the process of creating an oil or gas well.
+  ptg: poço ou poço de perfuração.
 Workover: set of operations performed on an existing well to maintain, restore, or enhance its productivity.
   - Maintenance like Replacement of Downhole equipments such as tubing, pumps or packers, fix Leaks in the casing or tubing, acidize to dissolve rocks, hydraulic Fracturing, Water of Gas injection, Thermal stimulation with hot watter injection, shift production zones plugin off a zone a perforating another zone of the well, change from open-hole to cased-hole, Well Abandonment, Sand Control with Sand Screens, Fishing Operations (retrieve lost equipment).
