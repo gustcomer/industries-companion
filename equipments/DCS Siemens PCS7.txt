@@ -1,0 +1,9 @@
+================================================================================
+Glossary
+
+COM: Component Object Model. language-independent, object-oriented system that allows different software components to communicate, serving as the foundation for OLE 2.0 and later technologies.
+DCS
+OLE: framework that allows applications to create and share objects or content with each other.
+OPC: the interoperability standard for the secure and reliable exchange of data in the industry.
+  - now the acronym stand for Open Platform Communications but the acronym OPC originally stood for OLE for Process Control. OLE meaning Microsoft's Object Linking and Embedding.
+  - its purpose was to abstract PLC specific protocols (such as Modbus, Profibus, etc.) into a standardized interface allowing HMI/SCADA systems to interface with a “middle-man” who would convert generic-OPC read/write requests into device-specific requests and vice-versa.
