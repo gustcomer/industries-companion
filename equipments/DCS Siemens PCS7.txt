@@ -2,10 +2,15 @@
 Glossary
 
 COM: Component Object Model. language-independent, object-oriented system that allows different software components to communicate, serving as the foundation for OLE 2.0 and later technologies.
-DCS
+DCS: Distributed Control System. automated control system that Unlike centralized control systems, distributes control functions across multiple controllers, which are located throughout the plant or industrial environment.
+Engineering Stations (ES): used for configuring, programming, and maintaining the PCS 7 system.
+Maintenance Station (MS): workstation designed to monitor, diagnose, and maintain the health of the process control system and its associated components.
 OLE: framework that allows applications to create and share objects or content with each other.
 OPC: the interoperability standard for the secure and reliable exchange of data in the industry.
   - now the acronym stand for Open Platform Communications but the acronym OPC originally stood for OLE for Process Control. OLE meaning Microsoft's Object Linking and Embedding.
   - its purpose was to abstract PLC specific protocols (such as Modbus, Profibus, etc.) into a standardized interface allowing HMI/SCADA systems to interface with a “middle-man” who would convert generic-OPC read/write requests into device-specific requests and vice-versa.
+Operator Stations (OS): workstations where operators monitor and control the process.
+SIMATIC: Siemens Automation Technology for Industry.
+SIMATIC PCS 7: process control system that integrates various components of the SIMATIC family to provide a comprehensive solution for automating large-scale industrial processes.
 Terminal Bus: a network within the PCS7 architecture that connects operator stations, engineering stations, and other human-machine interface (HMI) devices with each other and with the central control system.
   - typically operates using standard Ethernet-based network protocols like TCP/IP or Profinet.
