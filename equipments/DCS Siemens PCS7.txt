@@ -4,6 +4,8 @@ Glossary
 COM: Component Object Model. language-independent, object-oriented system that allows different software components to communicate, serving as the foundation for OLE 2.0 and later technologies.
 DCS: Distributed Control System. automated control system that Unlike centralized control systems, distributes control functions across multiple controllers, which are located throughout the plant or industrial environment.
 Engineering Stations (ES): used for configuring, programming, and maintaining the PCS 7 system.
+field bus: digital, two-way communication network that connects controllers (such as PLCs), sensors, actuators, and other field devices.
+  - it represents the general type of network, Profibus PA (Process Automation) and Foundation Fieldbus (FF) are more specific examples of field bus networks.
 HMI: human-machine interfaces.
 Interlocks: control mechanisms designed to ensure that certain conditions are met before a process or machine can operate.
 Maintenance Station (MS): workstation designed to monitor, diagnose, and maintain the health of the process control system and its associated components.
