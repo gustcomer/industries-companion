@@ -4,13 +4,22 @@ Glossary
 COM: Component Object Model. language-independent, object-oriented system that allows different software components to communicate, serving as the foundation for OLE 2.0 and later technologies.
 DCS: Distributed Control System. automated control system that Unlike centralized control systems, distributes control functions across multiple controllers, which are located throughout the plant or industrial environment.
 Engineering Stations (ES): used for configuring, programming, and maintaining the PCS 7 system.
+HMI: human-machine interfaces.
 Maintenance Station (MS): workstation designed to monitor, diagnose, and maintain the health of the process control system and its associated components.
 OLE: framework that allows applications to create and share objects or content with each other.
 OPC: the interoperability standard for the secure and reliable exchange of data in the industry.
   - now the acronym stand for Open Platform Communications but the acronym OPC originally stood for OLE for Process Control. OLE meaning Microsoft's Object Linking and Embedding.
   - its purpose was to abstract PLC specific protocols (such as Modbus, Profibus, etc.) into a standardized interface allowing HMI/SCADA systems to interface with a “middle-man” who would convert generic-OPC read/write requests into device-specific requests and vice-versa.
 Operator Stations (OS): workstations where operators monitor and control the process.
+S7-4xxFH: PLC, but in the context of a SIMATIC PCS 7 system it can be referred as Automation System.
+  - the xx denotes SIMATIC S7-400 series of PLCs.
+  - F stands for "Fail-safe" which means they are capable of executing safety-related programs, or safety functions.
+    - among the safety functions of the CLP: integrate both standard and safety-related control in a single system, special fail-safe I/O modules that are capable of handling safety signals, TÜV Certification.
+  - H stands for "High Availability" controllers are designed for redundancy, meaning they have backup systems that automatically take over in the event of a failure in the primary system.
+    - the redundancy in the CLP is possible due to 2 central processing units running in parallel (one CPU is the primary while the other is the backup or secondary), redundant power supplies, redundant communication paths, redundant I/O modules
+  - if the label redundant is written after the PLC it indicates that there is a backup system to ensure continuous operation in case of a failure.
 SIMATIC: Siemens Automation Technology for Industry.
 SIMATIC PCS 7: process control system that integrates various components of the SIMATIC family to provide a comprehensive solution for automating large-scale industrial processes.
-Terminal Bus: a network within the PCS7 architecture that connects operator stations, engineering stations, and other human-machine interface (HMI) devices with each other and with the central control system.
-  - typically operates using standard Ethernet-based network protocols like TCP/IP or Profinet.
+Terminal Bus: a network within the PCS7 architecture that connects operator stations, engineering stations, other human-machine interface (HMI) devices with each other and with the central control system, servers with databases.
+  - typically operates using standard Ethernet-based network protocols like TCP/IP or Profinet or industrial ethernet.
+  - 
