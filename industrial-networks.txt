@@ -4,10 +4,14 @@ Glossary
 
 Distributed Control System (DCS): control and monitor processes across various parts of a plant or facility, distributing the control functions among multiple controllers that are geographically dispersed.
   - it is composed of Controllers, I/O Modules, Communication Network, HMI, Engineering Workstations.
-Fieldbus: type of industrial network system used for real-time distributed control in manufacturing and production environments.
+Fieldbus Protocols: a family of industrial computer network protocols used for real-time distributed control, primarily in automation systems.It is designed to link field devices like sensors, actuators, and controllers within an industrial network.
   - in a Fieldbus system, multiple devices are connected to a single communication bus, which reduces the amount of wiring needed and improves communication efficiency.
   - some Fieldbus protocols: PROFIBUS, FOUNDATION Fieldbus, CANopen, Modbus, DeviceNet, AS-Interface (AS-i), EtherCAT, HART, Interbus, PROFINET, SERCOS, ControlNet, FF-HSE.
 Human-Machine Interface (HMI): dashboard that connects an operator to the machinery, equipment, or control system in an industrial environment.
+IEC 61158: defines the fieldbus network protocols used in industrial automation.
+  - unique in that it doesn't define a single fieldbus protocol but rather a collection of different protocols, each suitable for different applications.
+  - released in 2000
+  - covers several major fieldbus protocols like Profibus, Foundation Fieldbus, Modbus, EtherNet/IP, CANopen, HART, DeviceNet, Interbus, EtherCAT, ControlNet, PROFINET, etc.
 Industrial Network: specialized communication network consisting of physical interconections used to connect various devices, sensors, controllers, and other equipment within an industrial setting.
   - the physical interconnection is constructed with electrical characteristics defined by a Standard, and communicates using a Protocol.
 Protocol: defines the specific rules and methods of communication between devices within the context of a network, which may or may not adhere to an established standard.
