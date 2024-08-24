@@ -5,6 +5,7 @@ COM: Component Object Model. language-independent, object-oriented system that a
 DCS: Distributed Control System. automated control system that Unlike centralized control systems, distributes control functions across multiple controllers, which are located throughout the plant or industrial environment.
 Engineering Stations (ES): used for configuring, programming, and maintaining the PCS 7 system.
 HMI: human-machine interfaces.
+Interlocks: control mechanisms designed to ensure that certain conditions are met before a process or machine can operate.
 Maintenance Station (MS): workstation designed to monitor, diagnose, and maintain the health of the process control system and its associated components.
 OLE: framework that allows applications to create and share objects or content with each other.
 OPC: the interoperability standard for the secure and reliable exchange of data in the industry.
@@ -20,6 +21,10 @@ S7-4xxFH: PLC, but in the context of a SIMATIC PCS 7 system it can be referred a
   - if the label redundant is written after the PLC it indicates that there is a backup system to ensure continuous operation in case of a failure.
 SIMATIC: Siemens Automation Technology for Industry.
 SIMATIC PCS 7: process control system that integrates various components of the SIMATIC family to provide a comprehensive solution for automating large-scale industrial processes.
+Safety I/O: specialized modules designed to handle safety-critical signals
+  - examples of such signals include Emergency Stop Buttons, Safety Sensors, Safety interlocks.
+  - safety I/O modules are designed to meet stringent safety standards (like IEC 61508 or ISO 13849) and are often TÜV-certified.
+Standard + Safety I/O: input/output (I/O) modules used in industrial automation systems that are capable of handling both standard (non-safety) signals and safety-critical signals.
+Standard I/O: module used to interface with the standard control signals in an automation system like Sensor Inputs, Actuator Outputs
 Terminal Bus: a network within the PCS7 architecture that connects operator stations, engineering stations, other human-machine interface (HMI) devices with each other and with the central control system, servers with databases.
   - typically operates using standard Ethernet-based network protocols like TCP/IP or Profinet or industrial ethernet.
-  - 
