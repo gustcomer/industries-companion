@@ -1,0 +1,8 @@
+================================================================================
+Glossary
+
+Foundation Fieldbus: developed by the Fieldbus Foundation
+  - it is a competitor of PROFIBUS.
+Foundation Fieldbus H1: operates at a relatively low data rate (31.25 kbps) and is primarily used for connecting field devices such as sensors and actuators in process control environments.
+  - It supports both power and communication over the same cable.
+Foundation Fieldbus HSE: faster version of Foundation Fieldbus (High-Speed Ethernet, 100 Mbps), typically used for higher-level communication between controllers, supervisory systems, and higher-speed data acquisition devices.

@@ -1,7 +1,8 @@
 ================================================================================
 Glossary
 
-PROFIBUS: (Process Field Bus) a standard for fieldbus communication in automation technology.
+PROFIBUS: (Process Field Bus) a standard for fieldbus communication in automation technology. Developed by Siemens and standardized by PROFIBUS International.
+  - it is a competitor of Foundation Fieldbus.
 PROFIBUS DP (Decentralized Periphery): most widely used PROFIBUS variant designed for high-speed communication between controllers and field devices. Typically used in factory automation, where it connects PLCs to distributed I/O systems.
   - At 9.6 kbps to 93.75 kbps: Up to 1,200 meters; At 187.5 kbps: Up to 1,000 meters; At 500 kbps: Up to 400 meters; At 1.5 Mbps: Up to 200 meters; At 12 Mbps: Up to 100 meters.
 PROFIBUS PA (Process Automation): PROFIBUS variant specifically designed for use in process automation, particularly in hazardous environments because supports intrinsic safety, making it suitable for use in explosive environments.
