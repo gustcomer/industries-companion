@@ -1,0 +1,4 @@
+================================================================================
+Glossário
+
+Modbus: developed by Modicon (now Schneider Electric) in 1979.
