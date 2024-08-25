@@ -9,8 +9,6 @@ Floating Production, Storage and Offloading (FPSO): floating vessel designed to 
   ptg: Unidade Flutuante de Produção, Armazenamento e Transferência.
 Midstream: Transportation and Storage.
 Open-Hole Completion: after drilling the well to the desired depth, the wellbore is left open, without placing casing or cement.
-Spool: sections of pipe with flanges on either end connecting different parts and that resemble the shape of a traditional spool used for winding thread.
-  ptg: trechos de tubulação.
 Upstream: Exploration and Production.
 XMAS Tree: assembly of valves, spools, and fittings used at the wellhead to control the flow of oil or gas from a well.
   - processes: Flow Control of Well Fluids,shut-in capability, Blowout Prevention, isolation of Well components, pressure regulation and monitoring, access for Workovers, access point to chemical injection, interface with Subsea Infrastructure like subsea flowlines or risers, integration with control systems.

@@ -1,0 +1,13 @@
+
+================================================================================
+Glossary
+
+Flowlines: pipelines laid on the seabed to transport oil, gas, and other fluids between wells, manifolds, and processing facilities.
+  - Risers connect these flowlines to surface.
+Risers: connect Flowlines to surface facilities like platforms or (FPSO) vessels.
+Subsea Manifolds [Coletoras Submarinas]:
+Subsea Trees: (XMAS Tree): assemblies of valves, spools, and fittings used to control the flow of oil or gas from the well.
+  - they can be either "wet" (installed on the seabed) or "dry".
+Subsea Umbilicals: bundles of cables and pipes that connect subsea equipment to surface facilities.
+Subsea Wellhead: structures placed on the seabed to house the well and connect it to the rest of the subsea system.
+  - They provide structural and pressure containment, and they serve as the interface for drilling and production operations.
