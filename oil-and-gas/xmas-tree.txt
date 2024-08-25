@@ -1,0 +1,8 @@
+================================================================================
+Glossary
+
+Fittings: various components that are used to control the flow of hydrocarbons, facilitate the connection of different pipes or valves, and ensure the overall integrity of the system.
+  eg: Master Valve, Wing Valve (válvula lateral), Choke (estrangulador), Swab Valve (valvula de intervenção), Flowline Connection (Conexão da Linha de Fluxo), Crown Plug (tampão superior), Annulus Valve (válvula do anel Anular)...
+  ...Pressure Gauge (Manômetro), Injection Port (Porta de Injeção), Casing Hanger (Suspensor de Revestimento), Tubing Hanger (Suspensor de Tubulação), Christmas Tree Cap (Tampa da Árvore de Natal), Safety Valve.
+Spool: sections of pipe with flanges on either end connecting different parts and that resemble the shape of a traditional spool used for winding thread.
+  ptg: trechos de tubulação. Spool: carretel.
