@@ -19,6 +19,8 @@ Platform Types:
   # Compliant Tower (CT): [Torres Flexíveis] depths between 450 to 900 meters (Deep Waters). Similar to fixed platforms but designed to withstand lateral forces from winds, waves, and currents. They have a flexible structure that can sway.
   # Jack-Up Rigs: [Plataformas Autoelevatórias] works by lowering its extendable legs to the seabed once it reaches the drilling location. The legs anchor firmly into the seafloor, and the rig's hull is then jacked up above the water, creating a stable platform for drilling operations.
     ## used primarily in shallow waters, typically up to depths 120 meters.
+  # Semi-Submersible Platforms: [Plataformas Semi-submersíveis] partially submerged, floating on large pontoons (pontos) that are ballasted with water (lastreados com água). They are anchored to the seabed with mooring lines (linhas de ancoragem) or dynamic positioning.
+    ## suitable for deep water (águas profundas), up to 3000 meters.
 Upstream: Exploration and Production.
 XMAS Tree: assembly of valves, spools, and fittings used at the wellhead to control the flow of oil or gas from a well.
   - processes: Flow Control of Well Fluids,shut-in capability, Blowout Prevention, isolation of Well components, pressure regulation and monitoring, access for Workovers, access point to chemical injection, interface with Subsea Infrastructure like subsea flowlines or risers, integration with control systems.
