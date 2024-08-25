@@ -3,7 +3,9 @@ Glossary
 
 Cased-Hole Completion: after drilling, the wellbore is lined with steel casing that is cemented in place.
 Casing: large-diameter pipe that is inserted into a drilled wellbore and cemented in place to stabilize the well, prevent the walls of the borehole from caving in, and protect the well from external contaminants, such as water or gas.
+Completion Operation: some operations that happen after drilling like Installing Wellhead Components, Perforation and Well Testing.
 Downstream: Refining and Marketing.
+Dynamic Positioning: allow them to maintain their position over a drilling site without the need for anchors. This system uses thrusters controlled by a computer system to counteract the effects of wind, waves, and currents, ensuring the ship stays in the correct location.
 Fixed Platforms: anchored directly to the seabed using concrete or steel legs.
 Floating Production, Storage and Offloading (FPSO): floating vessel designed to receive hydrocarbons produced from nearby platforms or subsea templates.
   - processes: Well Fluid Reception, Separation, Gas Processing, Oil Processing (Desalinization), Remove Residual Water, Water Treatment, Crude Oil Storage, Gas Storage, Oil Offloading, Gas export via pipeline or LNG carrier, Metering, Power Generation via Gas Turbines and Diesel Generators, Wtaer Reinjection, Chemical Injection into flowlines, Flare unwanted Gases, Emergency Systems, Maintenance.
@@ -12,15 +14,20 @@ Midstream: Transportation and Storage.
 Mobile Offshore Drilling Unit (MODU): vessel or structure used in the offshore oil and gas industry to drill wells in underwater oil and gas reservoirs.
 - eg: Jack-up Rigs, Semisubmersible Rigs, Drillships, Submersible Rigs.
 Open-Hole Completion: after drilling the well to the desired depth, the wellbore is left open, without placing casing or cement.
+Perforation: process of creating small holes in the casing and cement to allow oil or gas to flow from the reservoir into the wellbore.
 Platform Types:
   # Fixed Platform (FP): up to 500 meters (Shallow Waters). anchored directly to the seabed using concrete or steel legs.
     ## Jacket Platforms
     ## Concrete Gravity Platforms
   # Compliant Tower (CT): [Torres Flexíveis] depths between 450 to 900 meters (Deep Waters). Similar to fixed platforms but designed to withstand lateral forces from winds, waves, and currents. They have a flexible structure that can sway.
-  # Jack-Up Rigs: [Plataformas Autoelevatórias] works by lowering its extendable legs to the seabed once it reaches the drilling location. The legs anchor firmly into the seafloor, and the rig's hull is then jacked up above the water, creating a stable platform for drilling operations.
+  # Jack-Up Rigs: [Plataformas Autoelevatórias] MODU that works by lowering its extendable legs to the seabed once it reaches the drilling location. The legs anchor firmly into the seafloor, and the rig's hull is then jacked up above the water, creating a stable platform for drilling operations.
     ## used primarily in shallow waters, typically up to depths 120 meters.
   # Semi-Submersible Platforms: [Plataformas Semi-submersíveis] partially submerged, floating on large pontoons (pontos) that are ballasted with water (lastreados com água). They are anchored to the seabed with mooring lines (linhas de ancoragem) or dynamic positioning.
     ## suitable for deep water (águas profundas), up to 3000 meters.
+  # Drillships: [Navio-Sonda] MODU vessels designed for exploratory offshore drilling of new oil and gas wells.
+    - they are specifically equipped to operate in deep water or ultra-deepwater environments.
+  # Tension-Leg Platforms (TLPs): [Plataformas de Pernas Tensionadas] floating platforms anchored to the seabed with vertical tendons (tendões verticais) under tension. This design minimizes vertical movement (movimento vertical).
+    ## Tension Leg Wellhead Platforms (TLWP): specialized type of (TLP) designed to focus primarily on wellhead operations.
 Upstream: Exploration and Production.
 XMAS Tree: assembly of valves, spools, and fittings used at the wellhead to control the flow of oil or gas from a well.
   - processes: Flow Control of Well Fluids,shut-in capability, Blowout Prevention, isolation of Well components, pressure regulation and monitoring, access for Workovers, access point to chemical injection, interface with Subsea Infrastructure like subsea flowlines or risers, integration with control systems.
