@@ -28,6 +28,7 @@ Platform Types:
     - they are specifically equipped to operate in deep water or ultra-deepwater environments.
   # Tension-Leg Platforms (TLPs): [Plataformas de Pernas Tensionadas] floating platforms anchored to the seabed with vertical tendons (tendões verticais) under tension. This design minimizes vertical movement (movimento vertical).
     ## Tension Leg Wellhead Platforms (TLWP): specialized type of (TLP) designed to focus primarily on wellhead operations.
+Production Operations: Flow Control, Pressure Management and Artificial Lift.
 Upstream: Exploration and Production.
 XMAS Tree: assembly of valves, spools, and fittings used at the wellhead to control the flow of oil or gas from a well.
   - processes: Flow Control of Well Fluids,shut-in capability, Blowout Prevention, isolation of Well components, pressure regulation and monitoring, access for Workovers, access point to chemical injection, interface with Subsea Infrastructure like subsea flowlines or risers, integration with control systems.
