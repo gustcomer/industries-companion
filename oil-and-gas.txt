@@ -4,14 +4,31 @@ Glossary
 Cased-Hole Completion: after drilling, the wellbore is lined with steel casing that is cemented in place.
 Casing: large-diameter pipe that is inserted into a drilled wellbore and cemented in place to stabilize the well, prevent the walls of the borehole from caving in, and protect the well from external contaminants, such as water or gas.
 Downstream: Refining and Marketing.
+Fixed Platforms: anchored directly to the seabed using concrete or steel legs.
 Floating Production, Storage and Offloading (FPSO): floating vessel designed to receive hydrocarbons produced from nearby platforms or subsea templates.
   - processes: Well Fluid Reception, Separation, Gas Processing, Oil Processing (Desalinization), Remove Residual Water, Water Treatment, Crude Oil Storage, Gas Storage, Oil Offloading, Gas export via pipeline or LNG carrier, Metering, Power Generation via Gas Turbines and Diesel Generators, Wtaer Reinjection, Chemical Injection into flowlines, Flare unwanted Gases, Emergency Systems, Maintenance.
   ptg: Unidade Flutuante de Produção, Armazenamento e Transferência.
 Midstream: Transportation and Storage.
+Mobile Offshore Drilling Unit (MODU): vessel or structure used in the offshore oil and gas industry to drill wells in underwater oil and gas reservoirs.
+- eg: Jack-up Rigs, Semisubmersible Rigs, Drillships, Submersible Rigs.
 Open-Hole Completion: after drilling the well to the desired depth, the wellbore is left open, without placing casing or cement.
+Platform Types:
+  # Fixed Platform (FP): up to 500 meters (Shallow Waters). anchored directly to the seabed using concrete or steel legs.
+    ## Jacket Platforms
+    ## Concrete Gravity Platforms
+  # Compliant Tower (CT): [Torres Flexíveis] depths between 450 to 900 meters (Deep Waters). Similar to fixed platforms but designed to withstand lateral forces from winds, waves, and currents. They have a flexible structure that can sway.
+  # Jack-Up Rigs: [Plataformas Autoelevatórias] works by lowering its extendable legs to the seabed once it reaches the drilling location. The legs anchor firmly into the seafloor, and the rig's hull is then jacked up above the water, creating a stable platform for drilling operations.
+    ## used primarily in shallow waters, typically up to depths 120 meters.
 Upstream: Exploration and Production.
 XMAS Tree: assembly of valves, spools, and fittings used at the wellhead to control the flow of oil or gas from a well.
   - processes: Flow Control of Well Fluids,shut-in capability, Blowout Prevention, isolation of Well components, pressure regulation and monitoring, access for Workovers, access point to chemical injection, interface with Subsea Infrastructure like subsea flowlines or risers, integration with control systems.
+Waters: categorized based on their depth which determine the type of drilling and production platforms that are suitable for use.
+  # Shallow Water: less than 200 meters.
+    - suitable for fixed platforms such as jacket platforms and jack-up rigs.
+  # Deep Water: between 200 meters and 1,500 meters.
+    - require more sophisticated platform designs, such as semi-submersible platforms, tension-leg platforms (TLPs), and drillships.
+  # Ultra-Deep Water: greater than 1,500 meters.
+    - pose significant technical and logistical challenges. Platforms used in these waters include drillships, floating production storage and offloading units (FPSOs), and spar platforms. The extreme depth requires advanced technology for drilling, production, and subsea infrastructure.
 Well: drilled hole in the Earth's surface that is designed to extract crude oil and sometimes natural gas from underground reservoirs.
   ptg: poço
 Wellbore: the hole or shaft drilled into the earth during the process of creating an oil or gas well.

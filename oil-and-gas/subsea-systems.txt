@@ -5,6 +5,7 @@ Glossary
 Flowlines: pipelines laid on the seabed to transport oil, gas, and other fluids between wells, manifolds, and processing facilities.
   - Risers connect these flowlines to surface.
 Risers: connect Flowlines to surface facilities like platforms or (FPSO) vessels.
+Subsea Control Systems: include the electronics and hydraulics necessary to operate the subsea valves and monitor well conditions.
 Subsea Manifolds [Coletoras Submarinas]:
 Subsea Trees: (XMAS Tree): assemblies of valves, spools, and fittings used to control the flow of oil or gas from the well.
   - they can be either "wet" (installed on the seabed) or "dry".
