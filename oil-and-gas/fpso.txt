@@ -1,2 +1,9 @@
+The oil from Wells is received in the Riser Balcony Area
+
 ================================================================================
 Glossary
+
+Riser Balcony Area: where the Risers from the Subsea Systems are received and connected to the FSPO.
+  - the Riser Balcony connects the Production Manifold to the Topside Processing Facilities with Risers.
+Topside Processing Facilities: collection of equipment, systems, and structures located on the deck of the FPSO that are responsible for processing the hydrocarbons that are produced from the subsea wells.
+  - it includes Separation Systems, Gas Treatment, Gas Compression, Oil Treatment, Oil Stabilization, Water Treatment, Chemical Injection Systems, Flare Systems, Power Generation, Control and Safety Systems, Utility Systems, Storage and Offloading Systems.
