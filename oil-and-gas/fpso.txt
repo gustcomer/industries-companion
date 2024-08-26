@@ -3,6 +3,8 @@ The oil from Wells is received in the Riser Balcony Area
 ================================================================================
 Glossary
 
+Manifold: in ptg Coletor or Distribuidor depending on the context.
+Production Manifold: manifold (Distribuidor) located on the deck of the FPSO that has capabilities of Flow Routing, Flow Control, Isolation, Maintenance and Testing of specific Risers.
 Riser Balcony Area: where the Risers from the Subsea Systems are received and connected to the FSPO.
   - the Riser Balcony connects the Production Manifold to the Topside Processing Facilities with Risers.
 Topside Processing Facilities: collection of equipment, systems, and structures located on the deck of the FPSO that are responsible for processing the hydrocarbons that are produced from the subsea wells.

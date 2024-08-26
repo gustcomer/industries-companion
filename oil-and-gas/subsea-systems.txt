@@ -7,7 +7,7 @@ Flowlines: pipelines laid on the seabed to transport oil, gas, and other fluids 
 Risers: connect Flowlines to surface facilities like platforms or (FPSO) vessels.
 Subsea Control Systems: include the electronics and hydraulics necessary to operate the subsea valves and monitor well conditions.
 Subsea Manifolds [Coletoras Submarinas]:
-  - aka Production Manifolds
+  - there could be Production Manifolds on the deck of the platforms as well.
 Subsea Trees: (XMAS Tree): assemblies of valves, spools, and fittings used to control the flow of oil or gas from the well.
   - they can be either "wet" (installed on the seabed) or "dry".
 Subsea Umbilicals: bundles of cables and pipes that connect subsea equipment to surface facilities.
