@@ -6,7 +6,14 @@ Aileron: primary FC Surface located near the trailing edges of the wings, contro
 Attitude: orientation of an aircraft relative to the horizon, which means it describes the aircraft's angular position along three axes: roll, pitch, and yaw.
 Elevator: primary FC Surface attached to the horizontal stabilizer at the tail of the aircraft that control the pitch (longitudinal) axis by adjusting the elevator on the horizontal stabilizer.
 Flight Control Surface: aerodynamic devices attached to an aircraft’s wings and tail that allow the pilot to control the aircraft's direction, stability, and attitude.
+Pitch: longitudinal axis. The up or down tilt of the aircraft's nose.
+  - when the nose is Up, the Pitch is positive. Nose down means negative Pitch.
+Roll: lateral axis. The tilt of the aircraft’s wings from side to side.
+  - the aircraft wings rolls to the left or right around its longitudinal axis.
+  - a positive roll means a clockwise direction. This mins the right wing dips downward and the left wing rises.
 Rudder: primary FC Surface attached to the vertical stabilizer (tail fin) that controls yaw (left or right movement of the nose) to help steer the airplane during flight or turns.
 Trimmable Horizontal Stabilizer (THS): type of Horizontal Stabilizer present in some aircraft, particularly more advanced or large airliners, where where the entire horizontal stabilizer can be adjusted to assist with pitch control, especially for trimming the aircraft to maintain a specific attitude during different phases of flight.
   - it primarily provides stability, not active control.
-  - Electro-mechanical actuators.
+  - electro-mechanical actuators.
+Yaw: the left or right movement of the aircraft's nose, turning around the vertical axis. Used to change its heading.
+  - a positive yaw refers to the rotation of the aircraft in a clockwise direction when viewed from above. The nose moves to the right while the tail moves to the left.
