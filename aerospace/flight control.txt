@@ -1,0 +1,12 @@
+================================================================================
+Glossary
+
+Aileron: primary FC Surface located near the trailing edges of the wings, control the roll (lateral) axis.
+  - Electro-mechanical or hydraulic actuators.
+Attitude: orientation of an aircraft relative to the horizon, which means it describes the aircraft's angular position along three axes: roll, pitch, and yaw.
+Elevator: primary FC Surface attached to the horizontal stabilizer at the tail of the aircraft that control the pitch (longitudinal) axis by adjusting the elevator on the horizontal stabilizer.
+Flight Control Surface: aerodynamic devices attached to an aircraft’s wings and tail that allow the pilot to control the aircraft's direction, stability, and attitude.
+Rudder: primary FC Surface attached to the vertical stabilizer (tail fin) that controls yaw (left or right movement of the nose) to help steer the airplane during flight or turns.
+Trimmable Horizontal Stabilizer (THS): type of Horizontal Stabilizer present in some aircraft, particularly more advanced or large airliners, where where the entire horizontal stabilizer can be adjusted to assist with pitch control, especially for trimming the aircraft to maintain a specific attitude during different phases of flight.
+  - it primarily provides stability, not active control.
+  - Electro-mechanical actuators.
