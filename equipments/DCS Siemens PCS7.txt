@@ -9,6 +9,7 @@ field bus: digital, two-way communication network that connects controllers (suc
 HMI: human-machine interfaces.
 Interlocks: control mechanisms designed to ensure that certain conditions are met before a process or machine can operate.
 Maintenance Station (MS): workstation designed to monitor, diagnose, and maintain the health of the process control system and its associated components.
+Modules: Power, Input/Output (I/O), Communications, Special Functions.
 OLE: framework that allows applications to create and share objects or content with each other.
 OPC: the interoperability standard for the secure and reliable exchange of data in the industry.
   - now the acronym stand for Open Platform Communications but the acronym OPC originally stood for OLE for Process Control. OLE meaning Microsoft's Object Linking and Embedding.
