@@ -6,6 +6,9 @@ Aileron: primary FC Surface located near the trailing edges of the wings, contro
 Attitude: orientation of an aircraft relative to the horizon, which means it describes the aircraft's angular position along three axes: roll, pitch, and yaw.
 Elevator: primary FC Surface attached to the horizontal stabilizer at the tail of the aircraft that control the pitch (longitudinal) axis by adjusting the elevator on the horizontal stabilizer.
 Flight Control Surface: aerodynamic devices attached to an aircraft’s wings and tail that allow the pilot to control the aircraft's direction, stability, and attitude.
+Lift: force that opposes gravity and allows an aircraft to take off, climb, and stay in the air.
+  - it is represented by an equation based on Bernoulli's Principle, or yet the Newton's Third Lav of Motion.
+  ptg: sustentação
 Pitch: longitudinal axis. The up or down tilt of the aircraft's nose.
   - when the nose is Up, the Pitch is positive. Nose down means negative Pitch.
 Roll: lateral axis. The tilt of the aircraft’s wings from side to side.
