@@ -1,0 +1,9 @@
+Supply chain
+  - Asset Tracking
+  - Inventory Management
+  - Temperature, humidity monitoring of transport conditions, shock, tilt.
+  - Predictive maintenance monitoring the health of fleet.
+  - Equipment Monitoring to predict failures, schedule repairs, improve operational efficiency.
+  - Route optimization integrated with GPS and traffic data.
+  - Demand forecasting with real-time data from various points in the supply chain.
+  - Improve Warehouse Security como backup pra cellular e queda de power supply.

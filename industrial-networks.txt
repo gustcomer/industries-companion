@@ -16,7 +16,14 @@ IEC 61158: defines the fieldbus network protocols used in industrial automation.
   - covers several major fieldbus protocols like Profibus, Foundation Fieldbus, Modbus, EtherNet/IP, CANopen, HART, DeviceNet, Interbus, EtherCAT, ControlNet, PROFINET, etc.
 Industrial Network: specialized communication network consisting of physical interconections used to connect various devices, sensors, controllers, and other equipment within an industrial setting.
   - the physical interconnection is constructed with electrical characteristics defined by a Standard, and communicates using a Protocol.
-Master-Slave: 
+Master-Slave: communication architecture where a central device (master) controls and communicates with multiple subordinate devices (slaves).
+  widely used in protocols for deterministic communication, ensuring real-time data exchange and control in automation systems.
+  - the master initiates all communication and the slaves only respond when addressed by the master.
+Modbus: communication protocol designed for industrial automation systems.
+  Variants:
+    Modbus RTU (Remote Terminal Unit): runs over serial communication (RS-232 or RS-485).
+    Modbus ASCII: Also for serial but uses ASCII encoding, Human-readable but less efficient than RTU.
+    Modbus TCP/IP: Encapsulates Modbus frames in TCP/IP packets, devices act as clients (masters) or servers (slaves), broadening compatibility.
 Protocol: defines the specific rules and methods of communication between devices within the context of a network, which may or may not adhere to an established standard.
 Request-Response: synchronous patterns that involves a client making a request to a server, which then processes the request and sends back a response.
   Client: entity that initiates the request.
