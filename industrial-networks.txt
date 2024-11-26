@@ -1,4 +1,6 @@
 
+OT systems interface directly with machinery and equipment, such as PLCs (Programmable Logic Controllers), SCADA (Supervisory Control and Data Acquisition) systems, and DCS (Distributed Control Systems).
+
 ================================================================================
 Glossary
 
@@ -24,6 +26,8 @@ Modbus: communication protocol designed for industrial automation systems.
     Modbus RTU (Remote Terminal Unit): runs over serial communication (RS-232 or RS-485).
     Modbus ASCII: Also for serial but uses ASCII encoding, Human-readable but less efficient than RTU.
     Modbus TCP/IP: Encapsulates Modbus frames in TCP/IP packets, devices act as clients (masters) or servers (slaves), broadening compatibility.
+OT (Operational Technology): hardware and software systems used to monitor and control physical processes, devices, and infrastructure in industrial environments.
+  while IT focuses on data, computing, and communication systems (e.g., email servers, databases, and enterprise software), OT focuses on physical systems and processes (e.g., controlling a factory assembly line or monitoring an oil pipeline).
 Protocol: defines the specific rules and methods of communication between devices within the context of a network, which may or may not adhere to an established standard.
 Request-Response: synchronous patterns that involves a client making a request to a server, which then processes the request and sends back a response.
   Client: entity that initiates the request.
