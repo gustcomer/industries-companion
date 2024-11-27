@@ -4,8 +4,12 @@ OT systems interface directly with machinery and equipment, such as PLCs (Progra
 ================================================================================
 Glossary
 
+Assets
+  Physical Assets: assets such as sensors and actuators, servers, workstations, network devices, and PLCs.
+  Logical Assets: assets such as flow graphics, program logic, databases, firmware, and firewall rules.
 Communication Model: architectural strategies that help manage and structure the way different components of a backend system communicate with each other.
   eg: Request-Response, Synchrononus vs Asynchronous, Push, Polling, Long Polling, Server Sent Events, Publish-Subscribe (Pub/Sub), Master-Slave.
+Critical Infrastructure: collection of physical or logical systems and assets, the failure or destruction of which will severely impact security, safety, the economy, or public health.
 Distributed Control System (DCS): control and monitor processes across various parts of a plant or facility, distributing the control functions among multiple controllers that are geographically dispersed.
   - it is composed of Controllers, I/O Modules, Communication Network, HMI, Engineering Workstations.
 Fieldbus Protocols: a family of industrial computer network protocols used for real-time distributed control, primarily in automation systems.It is designed to link field devices like sensors, actuators, and controllers within an industrial network.
@@ -16,8 +20,12 @@ IEC 61158: defines the fieldbus network protocols used in industrial automation.
   - unique in that it doesn't define a single fieldbus protocol but rather a collection of different protocols, each suitable for different applications.
   - released in 2000
   - covers several major fieldbus protocols like Profibus, Foundation Fieldbus, Modbus, EtherNet/IP, CANopen, HART, DeviceNet, Interbus, EtherCAT, ControlNet, PROFINET, etc.
+IIoT (Industrial Internet of Things)
 Industrial Network: specialized communication network consisting of physical interconections used to connect various devices, sensors, controllers, and other equipment within an industrial setting.
   - the physical interconnection is constructed with electrical characteristics defined by a Standard, and communicates using a Protocol.
+Industrial Protocols:
+  Proprietary: S7, CDA, SRTP, etc
+  Non-Proprietary: Modbus, OPC, DNP3, CIP, etc.
 Master-Slave: communication architecture where a central device (master) controls and communicates with multiple subordinate devices (slaves).
   widely used in protocols for deterministic communication, ensuring real-time data exchange and control in automation systems.
   - the master initiates all communication and the slaves only respond when addressed by the master.
@@ -28,6 +36,7 @@ Modbus: communication protocol designed for industrial automation systems.
     Modbus TCP/IP: Encapsulates Modbus frames in TCP/IP packets, devices act as clients (masters) or servers (slaves), broadening compatibility.
 OT (Operational Technology): hardware and software systems used to monitor and control physical processes, devices, and infrastructure in industrial environments.
   while IT focuses on data, computing, and communication systems (e.g., email servers, databases, and enterprise software), OT focuses on physical systems and processes (e.g., controlling a factory assembly line or monitoring an oil pipeline).
+  OT consists of Industrial Control Systems (ICS) that include Supervisory Control and Data Acquisition (SCADA), Remote Terminal Units (RTU), Programmable Logic Controllers (PLC), Distributed Control System (DCS), etc.
 Protocol: defines the specific rules and methods of communication between devices within the context of a network, which may or may not adhere to an established standard.
 Request-Response: synchronous patterns that involves a client making a request to a server, which then processes the request and sends back a response.
   Client: entity that initiates the request.
