@@ -1,0 +1,22 @@
+================================================================================
+Terms
+
+DNP3
+HMI (Human-Machine Interface): provide real-time graphical representations of industrial processes, such as machinery operation, pipeline flow, or power system status.
+  Operators can send commands to control equipment, adjust setpoints, or activate/deactivate certain processes.
+IEC 60870
+RTU (Remote Terminal Unit): electronic device used to interface with sensors, actuators, and other field devices in remote locations, enabling the SCADA system to monitor and control industrial processes over a wide area.
+  - while PLCs and RTUs share some similarities, they are typically used for different purposes.
+SCADA (Supervisory Control and Data Acquisition): commonly used for visualization, monitoring, and controlling industrial processes.
+
+================================================================================
+Vendor Specific
+
+S7 (SIMATIC S7): family of PLCs developed by Siemens.
+  eg: S7-1200, S7-1500, S7-400.
+  S7-1200: entry-level PLC for small automation tasks.
+  S7-1500: high-performance PLC for medium to large-scale applications.
+    - advanced features like high-speed processing, enhanced diagnostics, and integrated motion control.
+  S7-300: discontinued - Mid-range PLC used in various industries. Replaced by S7-1500 in new installations.
+  S7-400: high-performance PLC for complex and large-scale applications.
+WinCC (SIMATIC WinCC): SCADA system developed by Siemens.
