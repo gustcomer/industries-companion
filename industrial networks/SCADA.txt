@@ -5,6 +5,9 @@ DNP3
 HMI (Human-Machine Interface): provide real-time graphical representations of industrial processes, such as machinery operation, pipeline flow, or power system status.
   Operators can send commands to control equipment, adjust setpoints, or activate/deactivate certain processes.
 IEC 60870
+MES (Manufacturing Execution System): software used in manufacturing to manage, monitor, and control production processes in real-time.
+  - serves as a bridge between ERPs and the actual shop floor operations.
+  - ensures compliance with strict regulatory requirements and traceability.
 RTU (Remote Terminal Unit): electronic device used to interface with sensors, actuators, and other field devices in remote locations, enabling the SCADA system to monitor and control industrial processes over a wide area.
   - while PLCs and RTUs share some similarities, they are typically used for different purposes.
 SCADA (Supervisory Control and Data Acquisition): commonly used for visualization, monitoring, and controlling industrial processes.
@@ -12,6 +15,9 @@ SCADA (Supervisory Control and Data Acquisition): commonly used for visualizatio
 ================================================================================
 Vendor Specific
 
+Factory I/O: 3D simulation software designed for industrial automation training.
+iFIX: SCADA system developed by GE Digital (former GE Intelligent Platforms).
+Ignition: SCADA system developed by Inductive Automation.
 S7 (SIMATIC S7): family of PLCs developed by Siemens.
   eg: S7-1200, S7-1500, S7-400.
   S7-1200: entry-level PLC for small automation tasks.
@@ -20,3 +26,4 @@ S7 (SIMATIC S7): family of PLCs developed by Siemens.
   S7-300: discontinued - Mid-range PLC used in various industries. Replaced by S7-1500 in new installations.
   S7-400: high-performance PLC for complex and large-scale applications.
 WinCC (SIMATIC WinCC): SCADA system developed by Siemens.
+Wonderware: SCADA integrated into AVEVA's suite of industrial software.

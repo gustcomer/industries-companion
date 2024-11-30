@@ -12,6 +12,7 @@ Communication Model: architectural strategies that help manage and structure the
 Critical Infrastructure: collection of physical or logical systems and assets, the failure or destruction of which will severely impact security, safety, the economy, or public health.
 Distributed Control System (DCS): control and monitor processes across various parts of a plant or facility, distributing the control functions among multiple controllers that are geographically dispersed.
   - it is composed of Controllers, I/O Modules, Communication Network, HMI, Engineering Workstations.
+DNP3 (Distributed Network Protocol 3): set of communication protocols widely used in process automation systems, particularly within the electric and water utility sectors.
 Fieldbus Protocols: a family of industrial computer network protocols used for real-time distributed control, primarily in automation systems.It is designed to link field devices like sensors, actuators, and controllers within an industrial network.
   - in a Fieldbus system, multiple devices are connected to a single communication bus, which reduces the amount of wiring needed and improves communication efficiency.
   - some Fieldbus protocols: PROFIBUS, FOUNDATION Fieldbus, CANopen, Modbus, DeviceNet, AS-Interface (AS-i), EtherCAT, HART, Interbus, PROFINET, SERCOS, ControlNet, FF-HSE.
@@ -34,6 +35,9 @@ Modbus: communication protocol designed for industrial automation systems.
     Modbus RTU (Remote Terminal Unit): runs over serial communication (RS-232 or RS-485).
     Modbus ASCII: Also for serial but uses ASCII encoding, Human-readable but less efficient than RTU.
     Modbus TCP/IP: Encapsulates Modbus frames in TCP/IP packets, devices act as clients (masters) or servers (slaves), broadening compatibility.
+OPC (Open Platform Communications): standard for data exchange in industrial automation systems.
+  - it facilitates the seamless sharing of information between devices, systems, and software from different manufacturers.
+  - Developed in 1996 by the OPC Foundation, originally based on Microsoft’s OLE (Object Linking and Embedding) and COM (Component Object Model) technologies
 OT (Operational Technology): hardware and software systems used to monitor and control physical processes, devices, and infrastructure in industrial environments.
   while IT focuses on data, computing, and communication systems (e.g., email servers, databases, and enterprise software), OT focuses on physical systems and processes (e.g., controlling a factory assembly line or monitoring an oil pipeline).
   OT consists of Industrial Control Systems (ICS) that include Supervisory Control and Data Acquisition (SCADA), Remote Terminal Units (RTU), Programmable Logic Controllers (PLC), Distributed Control System (DCS), etc.
