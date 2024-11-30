@@ -37,9 +37,15 @@ Modbus: communication protocol designed for industrial automation systems.
     Modbus RTU (Remote Terminal Unit): runs over serial communication (RS-232 or RS-485).
     Modbus ASCII: Also for serial but uses ASCII encoding, Human-readable but less efficient than RTU.
     Modbus TCP/IP: Encapsulates Modbus frames in TCP/IP packets, devices act as clients (masters) or servers (slaves), broadening compatibility.
-OPC (Open Platform Communications): standard for data exchange in industrial automation systems.
+OPC (Open Platform Communications): standard for data exchange in industrial automation systems. The first initiative was a protocol called OLE for Process Control.
   - it facilitates the seamless sharing of information between devices, systems, and software from different manufacturers.
   - Developed in 1996 by the OPC Foundation, originally based on Microsoft’s OLE (Object Linking and Embedding) and COM (Component Object Model) technologies
+  OPC DA (Data Access): real-time data exchange, provides access to current values of sensors, actuators, and other devices.
+  OPC UA (Unified Architecture): platform-independent, scalable, and secure framework for data exchange. Eliminates reliance on Microsoft COM/DCOM and works on multiple platforms, including Windows, Linux, and embedded systems.
+    - instead of proprietary protocols like DCOM, it uses ppen standards like TCP, HTTPS.
+  OPC HDA (Historical Data Access): focused on retrieving and analyzing historical data.
+  OPC AE (Alarms and Events): provides event-driven notifications, such as alarms or system messages.
+  OPC XML-DA: extends OPC DA functionality using XML and SOAP for web-based systems.
 OT (Operational Technology): hardware and software systems used to monitor and control physical processes, devices, and infrastructure in industrial environments.
   while IT focuses on data, computing, and communication systems (e.g., email servers, databases, and enterprise software), OT focuses on physical systems and processes (e.g., controlling a factory assembly line or monitoring an oil pipeline).
   OT consists of Industrial Control Systems (ICS) that include Supervisory Control and Data Acquisition (SCADA), Remote Terminal Units (RTU), Programmable Logic Controllers (PLC), Distributed Control System (DCS), etc.
