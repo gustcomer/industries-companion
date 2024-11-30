@@ -13,6 +13,7 @@ Critical Infrastructure: collection of physical or logical systems and assets, t
 Distributed Control System (DCS): control and monitor processes across various parts of a plant or facility, distributing the control functions among multiple controllers that are geographically dispersed.
   - it is composed of Controllers, I/O Modules, Communication Network, HMI, Engineering Workstations.
 DNP3 (Distributed Network Protocol 3): set of communication protocols widely used in process automation systems, particularly within the electric and water utility sectors.
+  - allows reliable data exchange between various components such as SCADA, RTUs and IEDs.
 Fieldbus Protocols: a family of industrial computer network protocols used for real-time distributed control, primarily in automation systems.It is designed to link field devices like sensors, actuators, and controllers within an industrial network.
   - in a Fieldbus system, multiple devices are connected to a single communication bus, which reduces the amount of wiring needed and improves communication efficiency.
   - some Fieldbus protocols: PROFIBUS, FOUNDATION Fieldbus, CANopen, Modbus, DeviceNet, AS-Interface (AS-i), EtherCAT, HART, Interbus, PROFINET, SERCOS, ControlNet, FF-HSE.
@@ -21,6 +22,7 @@ IEC 61158: defines the fieldbus network protocols used in industrial automation.
   - unique in that it doesn't define a single fieldbus protocol but rather a collection of different protocols, each suitable for different applications.
   - released in 2000
   - covers several major fieldbus protocols like Profibus, Foundation Fieldbus, Modbus, EtherNet/IP, CANopen, HART, DeviceNet, Interbus, EtherCAT, ControlNet, PROFINET, etc.
+IED (Intelligent Electronic Devices)
 IIoT (Industrial Internet of Things)
 Industrial Network: specialized communication network consisting of physical interconections used to connect various devices, sensors, controllers, and other equipment within an industrial setting.
   - the physical interconnection is constructed with electrical characteristics defined by a Standard, and communicates using a Protocol.

@@ -1,7 +1,6 @@
 ================================================================================
 Terms
 
-DNP3
 HMI (Human-Machine Interface): provide real-time graphical representations of industrial processes, such as machinery operation, pipeline flow, or power system status.
   Operators can send commands to control equipment, adjust setpoints, or activate/deactivate certain processes.
 IEC 60870
@@ -15,6 +14,8 @@ SCADA (Supervisory Control and Data Acquisition): commonly used for visualizatio
 ================================================================================
 Vendor Specific
 
+Elipse: SCADA developed by Elipse Software (Brazilian) tailored for stand-alone applications.
+  Elipse E3: SCADA for more complex, distributed systems requiring client-server architecture.
 Factory I/O: 3D simulation software designed for industrial automation training.
 iFIX: SCADA system developed by GE Digital (former GE Intelligent Platforms).
 Ignition: SCADA system developed by Inductive Automation.
@@ -25,5 +26,18 @@ S7 (SIMATIC S7): family of PLCs developed by Siemens.
     - advanced features like high-speed processing, enhanced diagnostics, and integrated motion control.
   S7-300: discontinued - Mid-range PLC used in various industries. Replaced by S7-1500 in new installations.
   S7-400: high-performance PLC for complex and large-scale applications.
+TIA Portal (Totally Integrated Automation Portal): integrated software suite developed by Siemens for configuring, programming, and monitoring industrial automation systems.
+  - serves as the central engineering framework for the development and management of Siemens automation products, such as programmable logic controllers (PLCs), Human-Machine Interfaces (HMIs),
 WinCC (SIMATIC WinCC): SCADA system developed by Siemens.
 Wonderware: SCADA integrated into AVEVA's suite of industrial software.
+
+================================================================================
+Standards
+
+IEC 61131-3: standard for programming languages for programmable logic controllers (PLCs). It defines five programming languages.
+  Structured Text (ST): High-level, block-structured language similar to Pascal.
+  Instruction List (IL): Low-level, assembly-like language (deprecated in recent updates).
+  Ladder Diagram (LD): Graphical representation based on relay logic.
+  Function Block Diagram (FBD): Uses blocks to represent functions and their data flow.
+  Sequential Function Chart (SFC): Used for structuring and organizing complex control algorithms.
+ISA/IEC 62443: framework for securing Industrial Automation and Control Systems (IACS) addressing cybersecurity lifecycle of these systems.
