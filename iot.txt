@@ -1,3 +1,12 @@
+================================================================================
+Terms
+
+AWS IoT (Amazon Web Services Internet of Things): comprehensive platform that enables you to connect physical devices to the AWS cloud, facilitating the collection, storage, and real-time analysis of data.
+LoRaWAN: protocol built on the LoRa (Long Range) radio technology designed for low-power, long-range communication in the IoT.
+  LoRa: The physical layer (radio technology) enabling long-range communication.
+MQTT (Message Queuing Telemetry Transport): lightweight messaging protocol designed for low-bandwidth, high-latency, or unreliable networks, making it ideal for Internet of Things (IoT) applications.
+
+================================================================================
 Supply chain
   - Asset Tracking
   - Inventory Management

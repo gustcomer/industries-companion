@@ -17,8 +17,12 @@ Vendor Specific
 Elipse: SCADA developed by Elipse Software (Brazilian) tailored for stand-alone applications.
   Elipse E3: SCADA for more complex, distributed systems requiring client-server architecture.
 Factory I/O: 3D simulation software designed for industrial automation training.
+Grafana: open-source analytics and interactive visualization platform used to monitor and analyze data from a wide range of sources.
 iFIX: SCADA system developed by GE Digital (former GE Intelligent Platforms).
 Ignition: SCADA system developed by Inductive Automation.
+InfluxDB: Time Series Database.
+PLCSIM: simulation software tool developed by Siemens for simulating PLCs without requiring physical hardware.
+  part of the TIA Portal ecosystem and is designed to work with Siemens PLCs such as the S7-1200 and S7-1500.
 S7 (SIMATIC S7): family of PLCs developed by Siemens.
   eg: S7-1200, S7-1500, S7-400.
   S7-1200: entry-level PLC for small automation tasks.
@@ -26,8 +30,10 @@ S7 (SIMATIC S7): family of PLCs developed by Siemens.
     - advanced features like high-speed processing, enhanced diagnostics, and integrated motion control.
   S7-300: discontinued - Mid-range PLC used in various industries. Replaced by S7-1500 in new installations.
   S7-400: high-performance PLC for complex and large-scale applications.
+TeamViewer: Remote Access Tool
 TIA Portal (Totally Integrated Automation Portal): integrated software suite developed by Siemens for configuring, programming, and monitoring industrial automation systems.
   - serves as the central engineering framework for the development and management of Siemens automation products, such as programmable logic controllers (PLCs), Human-Machine Interfaces (HMIs),
+VNC (Virtual Network Computing): remote access technology often used in industrial networks, with features specifically design to the industry.
 WinCC (SIMATIC WinCC): SCADA system developed by Siemens.
 Wonderware: SCADA integrated into AVEVA's suite of industrial software.
 
